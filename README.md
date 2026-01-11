@@ -5,9 +5,9 @@ Data Scientist
 --------------
 
 *   🌍  I'm based in Russia
-*   🧠  I'm studying at [@SENATOROVAI](http://@SENATOROVAI) and learning Data Science and math
+*   🧠  I'm studying at [@SENATOROVAI](https://github.com/SENATOROVAI) and learning Data Science and math
 *   ✉️  You can contact me at [shushunov4job@gmail.com](mailto:shushunov4job@gmail.com)
-*   🚀  My currently work is [@SENATOROVAI](http://@SENATOROVAI)
+*   🚀  My currently work is [@SENATOROVAI](https://github.com/SENATOROVAI)
 *   👥  I'm looking to collaborate on interesting DS projects
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
